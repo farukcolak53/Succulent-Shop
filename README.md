@@ -25,4 +25,5 @@ This is a cumulative and individual project, every incoming assignment is added 
   * Circular Progress Indicator
   * Logout Action
   * Skip login flow when user is logged in
+
 [Figma Link](https://www.figma.com/file/aKFn9Czmk2ms2hqp4sctcw/Succulent-Shop?node-id=0%3A1)
