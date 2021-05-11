@@ -1,6 +1,7 @@
 # Succulent Shop
 
 An educational project for Trendyol Android Bootcamp 2021 
+This is a cumulative project, every incoming assignment is added to the previous work.
 
 ## Assignment #1: Create Signup Screen UI
  ### Todo
