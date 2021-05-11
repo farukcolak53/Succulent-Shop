@@ -17,6 +17,6 @@ An educational project for Trendyol Android Bootcamp 2021
   * Add the Related Products section into ProductDetailFragment which gets data from ProductStore and displays it in a horizontal RecyclerView.
   * Add a click listener to the related products which would navigate user to ProductDetailFragment for the clicked product.
 
-
+## Assignment #3: Integrate Signup and Related Products API (In Progress...)
 
 [Figma Link](https://www.figma.com/file/aKFn9Czmk2ms2hqp4sctcw/Succulent-Shop?node-id=0%3A1)
