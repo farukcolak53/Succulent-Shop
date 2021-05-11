@@ -1,7 +1,7 @@
 # Succulent Shop
 
 An educational project for Trendyol Android Bootcamp 2021<br/>
-This is a cumulative project, every incoming assignment is added to the previous work.
+This is a cumulative and individual project, every incoming assignment is added to the previous work.
 
 ## Assignment #1: Create Signup Screen UI
  ### Todo
@@ -19,5 +19,10 @@ This is a cumulative project, every incoming assignment is added to the previous
   * Add a click listener to the related products which would navigate user to ProductDetailFragment for the clicked product.
 
 ## Assignment #3: Integrate Signup and Related Products API (In Progress...)
-
+ ### Todo
+  * Signup API
+  * Related Products
+  * Circular Progress Indicator
+  * Logout Action
+  * Skip login flow when user is logged in
 [Figma Link](https://www.figma.com/file/aKFn9Czmk2ms2hqp4sctcw/Succulent-Shop?node-id=0%3A1)
