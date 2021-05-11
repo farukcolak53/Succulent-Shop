@@ -1,7 +1,7 @@
 # Succulent Shop
 
 An educational project for Trendyol Android Bootcamp 2021<br/>
-This is a cumulative and individual project, every incoming assignment is added to the previous work.
+This is a cumulative and individual project, every incoming assignment is added to the previous work.<br/>
 For UI design: [Figma](https://www.figma.com/file/aKFn9Czmk2ms2hqp4sctcw/Succulent-Shop?node-id=0%3A1)
 
 ## Assignment #1: Create Signup Screen UI
