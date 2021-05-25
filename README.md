@@ -19,7 +19,7 @@ For UI design: [Figma](https://www.figma.com/file/aKFn9Czmk2ms2hqp4sctcw/Succule
   * Add the Related Products section into ProductDetailFragment which gets data from ProductStore and displays it in a horizontal RecyclerView.
   * Add a click listener to the related products which would navigate user to ProductDetailFragment for the clicked product.
 
-## Assignment #3: Integrate Signup and Related Products API (In Progress...)
+## Assignment #3: Integrate Signup and Related Products API :heavy_check_mark:
  ### Todo
   * Signup API
   * Related Products
